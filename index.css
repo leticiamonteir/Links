@@ -86,3 +86,11 @@
   footer:hover{
     opacity: 1;
   }
+
+ @media screen and (max-width: 1200px) and (min-width: 150px)  {
+   
+    body{
+
+        background-size: 200vh ;
+   } 
+}
